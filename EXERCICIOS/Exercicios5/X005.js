@@ -1,4 +1,4 @@
-expressão inicial; expressão condicional; finalização;
+//expressão inicial; expressão condicional; finalização;
 
 //teste 1:
 indice = 0;
